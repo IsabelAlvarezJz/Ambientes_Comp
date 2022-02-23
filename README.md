@@ -4,6 +4,3 @@ Estamos pasando por cada estado paso a paso
 Hola hola
 Isabel ALvarez
 
-Vuelvo a modificar el archivo.... a ver que sucede....
-
-USO de FETCH
